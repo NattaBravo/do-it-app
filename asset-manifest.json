@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/do-it-app/static/css/main.7c61394a.css",
+    "main.js": "/do-it-app/static/js/main.170a5cd9.js",
+    "static/media/background.jpg": "/do-it-app/static/media/background.27af4092a3882163fd0e.jpg",
+    "index.html": "/do-it-app/index.html",
+    "main.7c61394a.css.map": "/do-it-app/static/css/main.7c61394a.css.map",
+    "main.170a5cd9.js.map": "/do-it-app/static/js/main.170a5cd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c61394a.css",
+    "static/js/main.170a5cd9.js"
+  ]
+}
